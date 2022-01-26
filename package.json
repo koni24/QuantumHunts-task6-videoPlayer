@@ -1,0 +1,26 @@
+{
+  "name": "QuantumHunts-task6-videoPlayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koni24/QuantumHunts-task6-videoPlayer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koni24/QuantumHunts-task6-videoPlayer/issues"
+  },
+  "homepage": "https://github.com/koni24/QuantumHunts-task6-videoPlayer#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.16",
+    "vite": "^2.7.13"
+  }
+}
