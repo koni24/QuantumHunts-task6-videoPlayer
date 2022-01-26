@@ -17,7 +17,7 @@ document.getElementById('videos').addEventListener('ended', myFunctionHandle, fa
 function myFunctionHandle() {
     key++;
     if (key == videoCount) {
-        key = 0;
+        // key = 0;
         playVideo(key);
     } else {
         playVideo(key);
